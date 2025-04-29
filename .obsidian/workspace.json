@@ -20,8 +20,33 @@
               "icon": "lucide-file",
               "title": "README"
             }
+          },
+          {
+            "id": "39f8b775b0dd825b",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Images/SG_04.png"
+              },
+              "icon": "lucide-image",
+              "title": "SG_04"
+            }
+          },
+          {
+            "id": "b7e65075cc59dc5c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.10"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -78,7 +103,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "1dc11432b757fb6e",
@@ -94,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Images/SG_04.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +129,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "Backlinks for SG_04"
             }
           },
           {
@@ -113,12 +138,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Images/SG_04.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from README"
+              "title": "Outgoing links from SG_04"
             }
           },
           {
@@ -142,13 +167,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "Images/SG_04.png",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of SG_04"
             }
           }
         ]
@@ -169,9 +194,16 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "a1f6088e1fc3c111",
+  "active": "b7e65075cc59dc5c",
   "lastOpenFiles": [
-    "Welcome.md",
-    "README.md"
+    "Images/SG_03.png",
+    "Images/SG_04.png",
+    "AWS VPC - networking fundamentals/0.3 Security Group.md",
+    "README.md",
+    "Images/SG_02.png",
+    "Images/SG_01.png",
+    "Images",
+    "AWS VPC - networking fundamentals",
+    "Welcome.md"
   ]
 }
