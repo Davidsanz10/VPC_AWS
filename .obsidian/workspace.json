@@ -20,33 +20,8 @@
               "icon": "lucide-file",
               "title": "README"
             }
-          },
-          {
-            "id": "39f8b775b0dd825b",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Images/SG_04.png"
-              },
-              "icon": "lucide-image",
-              "title": "SG_04"
-            }
-          },
-          {
-            "id": "b7e65075cc59dc5c",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.10"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.10"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -69,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorador de archivos"
             }
           },
           {
@@ -185,23 +160,33 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "fit:Fit Sync": false,
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "b7e65075cc59dc5c",
+  "active": "a12e25805b779644",
   "lastOpenFiles": [
-    "Images/SG_03.png",
-    "Images/SG_04.png",
+    "_fit/README.md",
+    "_fit/AWS VPC - networking fundamentals/0.3 Security Group.md",
     "AWS VPC - networking fundamentals/0.3 Security Group.md",
+    "Images/SG_07.png",
+    "2025-05-04.md",
     "README.md",
-    "Images/SG_02.png",
+    "test.md",
+    "Images/SG_06.png",
+    "_fit/AWS VPC - networking fundamentals",
+    "Images/SG_05.png",
+    "Images/SG_04.png",
     "Images/SG_01.png",
+    "_fit",
+    "Images/SG_03.png",
+    "Images/SG_02.png",
     "Images",
     "AWS VPC - networking fundamentals",
     "Welcome.md"
