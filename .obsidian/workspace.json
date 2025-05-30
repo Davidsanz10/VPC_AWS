@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS VPC - networking fundamentals/03. Security Group.md",
+                "file": "AWS VPC - networking fundamentals/02. Red.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03. Security Group"
+              "title": "02. Red"
             }
           }
         ]
@@ -171,8 +171,8 @@
   },
   "active": "e6338465718face6",
   "lastOpenFiles": [
-    "Images/03_SG_01.png",
     "AWS VPC - networking fundamentals/03. Security Group.md",
+    "Images/03_SG_01.png",
     "images.md",
     "Images/03_SG_10.png",
     "Images/03_SG_07.png",
