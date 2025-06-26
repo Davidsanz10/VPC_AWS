@@ -1,24 +1,20 @@
 {
   "main": {
-    "id": "bbc682fb8b74dc2a",
+    "id": "9214752864fc3e3c",
     "type": "split",
     "children": [
       {
-        "id": "e8bd344e1e8a83d8",
+        "id": "05f614024e1ae437",
         "type": "tabs",
         "children": [
           {
-            "id": "0bb8971192f019bc",
+            "id": "bec657eccef4e2fb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01. AWS VPC - networking fundamentals/06. Nat Instance.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "06. Nat Instance"
+              "title": "New tab"
             }
           }
         ]
@@ -27,28 +23,28 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "ed1f49790ba663d0",
+    "id": "e5d9e023bca6f428",
     "type": "split",
     "children": [
       {
-        "id": "5cfb73d48a072eee",
+        "id": "4231d185263e87c3",
         "type": "tabs",
         "children": [
           {
-            "id": "a12e25805b779644",
+            "id": "f04218fcb2ed4cd8",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorador de archivos"
+              "title": "Files"
             }
           },
           {
-            "id": "a93b70e547b7ebc3",
+            "id": "97e998a9633d44a6",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -61,11 +57,11 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Buscar"
+              "title": "Search"
             }
           },
           {
-            "id": "debd2908b5325304",
+            "id": "9122a06ff704b5d0",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -78,23 +74,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "1dc11432b757fb6e",
+    "id": "ca17756c3eda532f",
     "type": "split",
     "children": [
       {
-        "id": "5cdc6adf47587575",
+        "id": "ee9ff0ea688b79da",
         "type": "tabs",
         "children": [
           {
-            "id": "cc8ced09d99c3f6b",
+            "id": "205473c44a733258",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Images/SG_04.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +99,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for SG_04"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "f3cb0c35b0113ffa",
+            "id": "e4486e226feadf54",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Images/SG_04.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from SG_04"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "442a00365e835be6",
+            "id": "74fab1ba599bf7bd",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,18 +131,17 @@
             }
           },
           {
-            "id": "a98bad1a7fa43db2",
+            "id": "2f23d164f066c8bb",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Images/SG_04.png",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of SG_04"
+              "title": "Outline"
             }
           }
         ]
@@ -160,45 +153,42 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir selector rápido": false,
-      "graph:Abrir vista gráfica": false,
-      "canvas:Crear nuevo lienzo": false,
-      "daily-notes:Abrir la nota de hoy": false,
-      "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "0bb8971192f019bc",
+  "active": "bec657eccef4e2fb",
   "lastOpenFiles": [
-    "Images/06_NATI_04.png",
-    "01. AWS VPC - networking fundamentals/06. Nat Instance.md",
-    "Images/06_NATI_03.png",
+    "2025-06-26.md",
     "README.md",
+    "01. AWS VPC - networking fundamentals/07. VPC Endpoints & PrivateLinks.md",
+    "01. AWS VPC - networking fundamentals/06. Nat Instance.md",
+    "AWS VPC - networking fundamentals/05. Nat Gateway.md",
+    "Images/06_NATI_04.png",
+    "Images/06_NATI_03.png",
     "Images/06_NATI_02.png",
-    "Images/05_NATG_05.png",
-    "01. AWS VPC - networking fundamentals/05. Nat Gateway.md",
     "Images/06_NATI_01.png",
-    "Images/02_Red_01.png",
     "Images/05_NATG_08.png",
     "Images/05_NATG_07.png",
     "Images/05_NATG_06.png",
+    "Images/05_NATG_05.png",
     "Images/05_NATG_04.png",
+    "Images/05_NATG_03.png",
+    "01. AWS VPC - networking fundamentals/05. Nat Gateway.md",
     "01. AWS VPC - networking fundamentals/04. Network ACL.md",
-    "AWS VPC - networking fundamentals/04. Network ACL.md",
-    "AWS VPC - networking fundamentals",
-    "Sin título.canvas",
     "01. AWS VPC - networking fundamentals/03. Security Group.md",
     "01. AWS VPC - networking fundamentals/02. Red.md",
-    "images.md",
-    "test.md",
-    "2025-05-04.md",
-    "_fit/README.md",
-    "_fit/AWS VPC - networking fundamentals/0.3 Security Group.md",
-    "_fit/AWS VPC - networking fundamentals",
-    "_fit",
-    "Images",
     "01. AWS VPC - networking fundamentals",
-    "Welcome.md"
+    "AWS VPC - networking fundamentals/04. Network ACL.md",
+    "AWS VPC - networking fundamentals/03. Security Group.md",
+    "Welcome.md",
+    "Images",
+    "AWS VPC - networking fundamentals/02. Red.md",
+    "AWS VPC - networking fundamentals"
   ]
 }
