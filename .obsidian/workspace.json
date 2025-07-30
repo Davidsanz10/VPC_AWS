@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-06-26.md",
+                "file": "01. AWS VPC - networking fundamentals/08. VPC Endpoints & PrivateLinks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-06-26"
+              "title": "08. VPC Endpoints & PrivateLinks"
             }
           }
         ]
@@ -166,11 +166,18 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "f04218fcb2ed4cd8",
+  "active": "e3167d62e279ecd4",
   "lastOpenFiles": [
-    "01. AWS VPC - networking fundamentals/07. VPC Endpoints & PrivateLinks.md",
     "01. AWS VPC - networking fundamentals/07. VPC Connectivity options.md",
+    "01. AWS VPC - networking fundamentals/06. Nat Instance.md",
+    "01. AWS VPC - networking fundamentals/05. Nat Gateway.md",
+    "Images/05_NATG_01.png",
+    "Images/04_NACL_01.png",
+    "Images/03_SG_11.png",
+    "Images/05_NATG_02.png",
+    "01. AWS VPC - networking fundamentals/04. Network ACL.md",
     "2025-06-26.md",
+    "01. AWS VPC - networking fundamentals/08. VPC Endpoints & PrivateLinks.md",
     "Sin título.md",
     "Images/07.09_VPC_connections.png",
     "Images/07.08_VPC_connections.png",
@@ -178,15 +185,8 @@
     "Images/07.06_VPC_connections.png",
     "Images/07.05_VPC_connections.png",
     "Images/07.04_VPC_connections.png",
-    "Images/07.03_VPC_connections.png",
-    "Images/07.02_VPC_connections.png",
-    "Images/07.01_VPC_connections.png",
     "README.md",
-    "01. AWS VPC - networking fundamentals/06. Nat Instance.md",
     "AWS VPC - networking fundamentals/05. Nat Gateway.md",
-    "Images/06_NATI_04.png",
-    "01. AWS VPC - networking fundamentals/05. Nat Gateway.md",
-    "01. AWS VPC - networking fundamentals/04. Network ACL.md",
     "01. AWS VPC - networking fundamentals/03. Security Group.md",
     "01. AWS VPC - networking fundamentals/02. Red.md",
     "01. AWS VPC - networking fundamentals",
